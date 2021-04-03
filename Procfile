@@ -1,0 +1,1 @@
+worker: python bot/risk_of_bot.py
